@@ -8,10 +8,10 @@ import (
 	"testing"
 	"time"
 
+	"github.com/YouShengLiu/go-gtp/gtpv1"
+	"github.com/YouShengLiu/go-gtp/gtpv1/ie"
+	"github.com/YouShengLiu/go-gtp/gtpv1/message"
 	"github.com/google/go-cmp/cmp"
-	"github.com/wmnsk/go-gtp/gtpv1"
-	"github.com/wmnsk/go-gtp/gtpv1/ie"
-	"github.com/wmnsk/go-gtp/gtpv1/message"
 )
 
 func TestIEs(t *testing.T) {

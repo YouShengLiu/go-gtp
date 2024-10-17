@@ -7,7 +7,7 @@ package gtp_test
 import (
 	"testing"
 
-	"github.com/wmnsk/go-gtp"
+	"github.com/YouShengLiu/go-gtp"
 )
 
 func FuzzParse(f *testing.F) {

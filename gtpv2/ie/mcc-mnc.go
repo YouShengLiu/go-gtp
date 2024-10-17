@@ -8,7 +8,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/wmnsk/go-gtp/utils"
+	"github.com/YouShengLiu/go-gtp/utils"
 )
 
 // MCC returns MCC in string if the type of IE matches.

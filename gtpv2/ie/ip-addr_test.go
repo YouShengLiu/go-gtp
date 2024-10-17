@@ -5,9 +5,9 @@ import (
 	"net"
 	"testing"
 
+	"github.com/YouShengLiu/go-gtp/gtpv2"
+	"github.com/YouShengLiu/go-gtp/gtpv2/ie"
 	"github.com/google/go-cmp/cmp"
-	"github.com/wmnsk/go-gtp/gtpv2"
-	"github.com/wmnsk/go-gtp/gtpv2/ie"
 )
 
 func TestPDNAddressAllocationIP(t *testing.T) {

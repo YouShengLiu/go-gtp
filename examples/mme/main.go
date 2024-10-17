@@ -35,10 +35,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/wmnsk/go-gtp/gtpv1"
-	"github.com/wmnsk/go-gtp/gtpv2"
-	"github.com/wmnsk/go-gtp/gtpv2/ie"
-	"github.com/wmnsk/go-gtp/gtpv2/message"
+	"github.com/YouShengLiu/go-gtp/gtpv1"
+	"github.com/YouShengLiu/go-gtp/gtpv2"
+	"github.com/YouShengLiu/go-gtp/gtpv2/ie"
+	"github.com/YouShengLiu/go-gtp/gtpv2/message"
 )
 
 // command-line flags.

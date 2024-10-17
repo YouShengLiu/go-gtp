@@ -17,10 +17,10 @@ import (
 	"sync"
 	"time"
 
+	"github.com/YouShengLiu/go-gtp/gtpv1/ie"
+	"github.com/YouShengLiu/go-gtp/gtpv1/message"
+	v2ie "github.com/YouShengLiu/go-gtp/gtpv2/ie"
 	"github.com/vishvananda/netlink"
-	"github.com/wmnsk/go-gtp/gtpv1/ie"
-	"github.com/wmnsk/go-gtp/gtpv1/message"
-	v2ie "github.com/wmnsk/go-gtp/gtpv2/ie"
 	"golang.org/x/net/ipv4"
 	"golang.org/x/net/ipv6"
 )

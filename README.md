@@ -2,10 +2,10 @@
 
 Package gtp provides simple and painless handling of GTP (GPRS Tunneling Protocol) in the Go programming language.
 
-![CI status](https://github.com/wmnsk/go-gtp/actions/workflows/go.yml/badge.svg)
-[![golangci-lint](https://github.com/wmnsk/go-gtp/actions/workflows/golangci-lint.yml/badge.svg)](https://github.com/wmnsk/go-gtp/actions/workflows/golangci-lint.yml)
-[![Go Reference](https://pkg.go.dev/badge/github.com/wmnsk/go-gtp.svg)](https://pkg.go.dev/github.com/wmnsk/go-gtp)
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/wmnsk/go-gtp/blob/master/LICENSE)
+![CI status](https://github.com/YouShengLiu/go-gtp/actions/workflows/go.yml/badge.svg)
+[![golangci-lint](https://github.com/YouShengLiu/go-gtp/actions/workflows/golangci-lint.yml/badge.svg)](https://github.com/YouShengLiu/go-gtp/actions/workflows/golangci-lint.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/YouShengLiu/go-gtp.svg)](https://pkg.go.dev/github.com/YouShengLiu/go-gtp)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/YouShengLiu/go-gtp/blob/master/LICENSE)
 
 ## Project Status
 
@@ -139,8 +139,8 @@ go test -fuzz .
 
 ## Authors
 
-[Yoshiyuki Kurauchi](https://wmnsk.com/) and [contributors](https://github.com/wmnsk/go-gtp/graphs/contributors).
+[Yoshiyuki Kurauchi](https://wmnsk.com/) and [contributors](https://github.com/YouShengLiu/go-gtp/graphs/contributors).
 
 ## LICENSE
 
-[MIT](https://github.com/wmnsk/go-gtp/blob/master/LICENSE)
+[MIT](https://github.com/YouShengLiu/go-gtp/blob/master/LICENSE)

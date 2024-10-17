@@ -19,8 +19,8 @@ import (
 	"github.com/vishvananda/netlink"
 	"google.golang.org/grpc"
 
-	"github.com/wmnsk/go-gtp/examples/gw-tester/s1mme"
-	"github.com/wmnsk/go-gtp/gtpv1"
+	"github.com/YouShengLiu/go-gtp/examples/gw-tester/s1mme"
+	"github.com/YouShengLiu/go-gtp/gtpv1"
 )
 
 type enb struct {

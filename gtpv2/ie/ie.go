@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/wmnsk/go-gtp/utils"
+	"github.com/YouShengLiu/go-gtp/utils"
 )
 
 // IE definitions.

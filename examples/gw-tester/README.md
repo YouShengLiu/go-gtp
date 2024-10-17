@@ -68,8 +68,8 @@ Just `go get` eNB and MME.
 Functional S-GW and P-GW are also available in the same directory if you need them.
 
 ```shell-session
-go get github.com/wmnsk/go-gtp/examples/gw-tester/enb
-go get github.com/wmnsk/go-gtp/examples/gw-tester/mme
+go get github.com/YouShengLiu/go-gtp/examples/gw-tester/enb
+go get github.com/YouShengLiu/go-gtp/examples/gw-tester/mme
 ```
 
 And run them with YAML configuration. See [Configuration](#configurations) section for details.

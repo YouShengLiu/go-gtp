@@ -8,7 +8,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/wmnsk/go-gtp/utils"
+	"github.com/YouShengLiu/go-gtp/utils"
 )
 
 // NewMSISDN creates a new MSISDN IE.

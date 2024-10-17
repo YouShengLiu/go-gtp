@@ -7,10 +7,10 @@ package message_test
 import (
 	"testing"
 
-	"github.com/wmnsk/go-gtp/gtpv1"
-	"github.com/wmnsk/go-gtp/gtpv1/ie"
-	"github.com/wmnsk/go-gtp/gtpv1/message"
-	"github.com/wmnsk/go-gtp/gtpv1/testutils"
+	"github.com/YouShengLiu/go-gtp/gtpv1"
+	"github.com/YouShengLiu/go-gtp/gtpv1/ie"
+	"github.com/YouShengLiu/go-gtp/gtpv1/message"
+	"github.com/YouShengLiu/go-gtp/gtpv1/testutils"
 )
 
 func TestDeletePDPContextRequest(t *testing.T) {
